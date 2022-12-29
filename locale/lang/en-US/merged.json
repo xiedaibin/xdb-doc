@@ -2456,5 +2456,6 @@
     "account.service_authority": "service authority",
     "account.company_id": "Company Id",
     "account.update_timezone": "update Timezone",
-    "account.choose_timezone": "Choose Timezone"
+    "account.choose_timezone": "Choose Timezone",
+    "settlement.xdbtest": "xdb test"
 }
