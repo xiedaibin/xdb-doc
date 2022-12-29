@@ -3975,5 +3975,6 @@
   "settlement.account_name": "账号名称",
   "settlement.bank_of_deposit": "开户银行",
   "settlement.collection_account_number": "收款账号",
-  "settlement.payee": "收款方"
+  "settlement.payee": "收款方",
+  "settlement.xdbtest": "谢代彬测试推送"
 }
